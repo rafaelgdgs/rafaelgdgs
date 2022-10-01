@@ -2,7 +2,7 @@
 
 <div align="center" style="display: inline-block;">
   <hr>
-  <a href="https://github.com/nusoto">
+  <a href="https://github.com/rafaelgdgs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nusoto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusoto&layout=compact&langs_count=7&theme=dark"/>
 </div>
