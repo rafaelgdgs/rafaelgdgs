@@ -21,6 +21,10 @@ Currently I'm developing an utility in Java to parse logs and stacktrace.
 
 TicTacToe using macroquad for the UI and Rust for the game loop.
 
+### [Conway's Game of Life](https://github.com/rafaelgdgs/Game_of_Life)
+
+1970 John Horton Conway's Game of Life Written in Rust.
+
 ### [Part of Speach Tagger](https://github.com/rafaelgdgs/PartOfSpeach-Tagging)
 
 PoS Tagger written in Java.
