@@ -29,9 +29,10 @@ TicTacToe using macroquad for the UI and Rust for the game loop.
 
 PoS Tagger written in Java.
 
-### [DNA Processing](https://github.com/rafaelgdgs/LP1-DNAProcessing)
+<!---### [DNA Processing](https://github.com/rafaelgdgs/LP1-DNAProcessing)
 
 DNA processing in C++: DNA profiling to associate suspects with victims of a crime.
+-->
 
 ### [REST API for restaurant](https://github.com/smart-menu-ufrn/smart-menu-service)
 
